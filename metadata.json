@@ -1,0 +1,8 @@
+{
+  "name": "No Annoyance v3",
+  "description": "Removes the 'Window is ready' notification and automatically focuses the window",
+  "uuid": "noannoyance@tibordp.github.io",
+  "shell-version": [
+    "45"
+  ]
+}
